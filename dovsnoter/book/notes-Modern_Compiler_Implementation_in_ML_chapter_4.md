@@ -24,4 +24,4 @@ It is possible to create a compiler using ML-Yacc parser, however it is difficul
 Older compilers did not use AST because they did not have memory for such a data-structure* 
 
 ## Positions
-This just explains that to report reasonable approximations of the positions where the error occur, the AST must store the position of where it was created in the program. this is the "loc" in the dolphin AST.
+This just explains that to report reasonable approximations of the positions where the error occur, the AST must store the position of where it was created in the program. this is the "loc" in the dolphin AST.:
